@@ -1,0 +1,94 @@
+ #wrapper {
+    margin: 60px auto 0;
+    width: 1000px;
+    height: auto;
+}
+#header {
+    padding-bottom: 40px;
+    border-bottom: 1px solid #535353;
+}
+div {
+    display: block;
+}
+
+element.style {
+    display: none;
+}
+
+/* main section */
+div {
+    display: block;
+}
+/* preconten */
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+/* content */
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+/* div-contet */
+
+user agent stylesheet
+div {
+    display: block;
+}
+/* div-ckeckout */
+#checkout-top-image {
+    background: url(images/sushi-preview.png) no-repeat top left;
+    height: 50px;
+}
+/* checkout-botton-image */
+#checkout-bottom-image {
+    background: url(images/sushi-preview.png) no-repeat bottom left;
+    height: 53px;
+    margin-bottom: 20px;
+}
+div {
+    display: block;
+}
+/* footer */
+#footer {
+    position: relative;
+    border-top: 1px solid #535353;
+    font-size: 12px;
+    padding-bottom: 60px;
+    color: #999;
+}
+/* footter-p */
+#footer p {
+    margin: 10px 0;
+}
+user agent stylesheet
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+/* footer p2 */
+#footer p {
+    margin: 10px 0;
+}
+/* imagen de fondo */
+#checkout-bottom-image {
+    background: url("http://demos.telerik.com/kendo-ui/content/spa/websushi/images/200/shiromi.jpg") no-repeat bottom left;
+    height: 53px;
+    margin-bottom: 20px;
+}
+/* table */
+table thead th:first-child {
+    text-align: left;
+    color: #4a4a4a;
+    font-size: 13px;
+}
+thead th {
+    font-size: 13px;
+    border-bottom: 1px solid #dadada;
+}
+table thead th:first-child + th + th {
+    font-size: 13px;
+    text-align: right;
+}
+

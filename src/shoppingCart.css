@@ -1,0 +1,8 @@
+body{
+    background: url(http://demos.telerik.com/kendo-ui/content/spa/websushi/css/images/background-image.png);
+}
+
+.currentDish{
+    width: 100px;
+    height: 100px;
+}

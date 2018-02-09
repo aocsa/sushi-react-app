@@ -4,4 +4,4 @@ Nosotros somos una plataforma de delivery online. Tenemos a tus restaurantes de 
 
 ![screenshot](https://user-images.githubusercontent.com/3615859/35745176-55e1592c-0810-11e8-9d50-daae57746fd0.png)
 
-## Proyecto desarrollado en [Laboratoria](www.laboratoria.la)
+## Proyecto desarrollado en [Laboratoria](http://laboratoria.la)
